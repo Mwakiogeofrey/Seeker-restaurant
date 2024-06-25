@@ -21,9 +21,9 @@ function App() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto justify-content-end w-100">
               <Nav.Link  href="/" className='active text-uppercase'>Home</Nav.Link>
-              <Nav.Link to href ="/Menu" className='active text-uppercase'>Menu </Nav.Link>
-              <Nav.Link  to href="/About" className='active text-uppercase'>About</Nav.Link>
-              <Nav.Link  to href="/Contact" className='active text-uppercase'>Contact</Nav.Link>
+              <Nav.Link href ="Menu" className='active text-uppercase'>Menu </Nav.Link>
+              <Nav.Link href="About" className='active text-uppercase'>About</Nav.Link>
+              <Nav.Link href="Contact" className='active text-uppercase'>Contact</Nav.Link>
               
               
             </Nav>
